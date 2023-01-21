@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibra Ndiaye , computer vision engineer at Maf agrobotic
 - 👀 I’m interested in Deep learning , IA , Robotics ...
 - 🌱 I’m currently learning robotics
-- 📫 How to reach me: ndiaye102@protonmail.com
+- 📫 How to reach me: indiaye102@protonmail.com
 
 <!---
 ibrandiay/ibrandiay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
