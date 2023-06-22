@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ibra Ndiaye , computer vision engineer at Maf agrobotic
+- 👋 Hi, I’m Ibra Ndiaye , computer vision engineer at Maf Roda Agrobotic
 - 👀 I’m interested in Deep learning , IA, HPC and Robotics ...
 - 🌱 I’m currently learning robotics
 - 📫 How to reach me: indiaye102@protonmail.com
