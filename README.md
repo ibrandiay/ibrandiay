@@ -11,22 +11,16 @@
 - 💡 Passionate about building efficient and scalable solutions for large-scale spatial datasets.
 
 ## 🛠️ Technologies
-
 ## 🛠️ Technologies
 
-| Languages | 3D & Geospatial |
-|------------|----------------|
-| C++ | PDAL |
-| Python | GDAL |
-| CMake | LiDAR |
-|  | Point Clouds |
-|  | GIS |
+| Languages | 3D & Geospatial | Computer Vision & AI | Performance |
+|------------|----------------|---------------------|-------------|
+| C++ | PDAL | OpenCV | HPC |
+| Python | GDAL | Deep Learning | Parallel Computing |
+| CMake | LiDAR | Machine Learning | Linux |
+|  | Point Clouds |  |  |
+|  | GIS |  |  |
 
-| Computer Vision & AI | Performance |
-|---------------------|-------------|
-| OpenCV | HPC |
-| Deep Learning | Parallel Computing |
-| Machine Learning | Linux |
 ## 📫 Contact
 
 - Email: indiaye102@protonmail.com
