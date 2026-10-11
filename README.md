@@ -11,7 +11,6 @@
 - 💡 Passionate about building efficient and scalable solutions for large-scale spatial datasets.
 
 ## 🛠️ Technologies
-## 🛠️ Technologies
 
 | Languages | 3D & Geospatial | Computer Vision & AI | HPC & Graphics |
 |------------|----------------|---------------------|---------------|
