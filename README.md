@@ -12,28 +12,21 @@
 
 ## 🛠️ Technologies
 
-### Languages
-- C++
-- Python
-- CMake
+## 🛠️ Technologies
 
-### 3D & Geospatial
-- PDAL
-- GDAL
-- LiDAR
-- Point Clouds
-- GIS
+| Languages | 3D & Geospatial |
+|------------|----------------|
+| C++ | PDAL |
+| Python | GDAL |
+| CMake | LiDAR |
+|  | Point Clouds |
+|  | GIS |
 
-### Computer Vision & AI
-- OpenCV
-- Deep Learning
-- Machine Learning
-
-### Performance
-- HPC
-- Parallel Computing
-- Linux
-
+| Computer Vision & AI | Performance |
+|---------------------|-------------|
+| OpenCV | HPC |
+| Deep Learning | Parallel Computing |
+| Machine Learning | Linux |
 ## 📫 Contact
 
 - Email: indiaye102@protonmail.com
