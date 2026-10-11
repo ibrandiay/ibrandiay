@@ -13,13 +13,15 @@
 ## 🛠️ Technologies
 ## 🛠️ Technologies
 
-| Languages | 3D & Geospatial | Computer Vision & AI | Performance |
-|------------|----------------|---------------------|-------------|
-| C++ | PDAL | OpenCV | HPC |
-| Python | GDAL | Deep Learning | Parallel Computing |
-| CMake | LiDAR | Machine Learning | Linux |
-|  | Point Clouds |  |  |
-|  | GIS |  |  |
+| Languages | 3D & Geospatial | Computer Vision & AI | HPC & Graphics |
+|------------|----------------|---------------------|---------------|
+| C++ | PDAL | OpenCV | CUDA |
+| Python | GDAL | PyTorch | Vulkan |
+| CMake | LiDAR | TensorFlow | OpenMP |
+| Java | Point Clouds | JAX | MPI |
+| Fortran | GIS | Scikit-Learn | Parallel Computing |
+| Bash | EPT / COPC | ONNX Runtime | Linux |
+| SQL | Geospatial Data | Deep Learning | GPU Computing |
 
 ## 📫 Contact
 
