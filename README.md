@@ -6,7 +6,7 @@
 
 - 🔭 Working on 3D perception, LiDAR processing, point cloud analytics and geospatial data.
 - 🧠 Interested in Computer Vision, Machine Learning, Robotics and High Performance Computing (HPC).
-- 🗺️ Daily tools: C++, Python, PDAL, GDAL, Eigen, OpenCV.
+- 🗺️ Daily tools: C++, Python, PDAL, GDAL, Eigen, OpenCV, torch, tensorflow, cnn, transformer
 - 🌱 Currently learning Robotics and advanced 3D perception systems.
 - 💡 Passionate about building efficient and scalable solutions for large-scale spatial datasets.
 
