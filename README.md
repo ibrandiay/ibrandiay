@@ -14,8 +14,8 @@
 
 | Languages | 3D & Geospatial | Computer Vision & AI | HPC & Graphics |
 |------------|----------------|---------------------|---------------|
-| C++ | PDAL | OpenCV | CUDA |
-| Python | GDAL | PyTorch | Vulkan |
+| C++ | opengl | OpenCV | CUDA |
+| Python | open3d | PyTorch | Vulkan |
 | CMake | LiDAR | TensorFlow | OpenMP |
 | Java | Point Clouds | JAX | MPI |
 | Fortran | Scikit-Learn | Parallel Computing |
