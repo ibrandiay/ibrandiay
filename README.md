@@ -18,8 +18,8 @@
 | Python | GDAL | PyTorch | Vulkan |
 | CMake | LiDAR | TensorFlow | OpenMP |
 | Java | Point Clouds | JAX | MPI |
-| Fortran | GIS | Scikit-Learn | Parallel Computing |
-| Bash | EPT / COPC | ONNX Runtime | Linux |
+| Fortran | Scikit-Learn | Parallel Computing |
+| Bash  | ONNX Runtime | Linux |
 | SQL | Geospatial Data | Deep Learning | GPU Computing |
 
 ## 📫 Contact
